@@ -4,6 +4,8 @@ body{
 
 .list{
     list-style: none;
-    display: inline;
 }
 
+.list .listinline{
+    display: inline;
+}
