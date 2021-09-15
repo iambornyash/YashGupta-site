@@ -13,10 +13,11 @@
 
 .list{
     text-align: right;
+    list-style: none;
     
 }
 .list .listinline{
-    list-style: none;
+    
     display: inline;
     padding: 0 0.5rem;
 }
