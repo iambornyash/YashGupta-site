@@ -9,7 +9,7 @@
     background-color: var(--primary-color); 
     color: white;
     padding: 1rem;
-    border-bottom-left-radius: 1rem;
+    border-bottom-left-radius: 2rem;
 }
 .navigation .myname{
  font-weight: bold;
@@ -30,7 +30,10 @@ text-decoration: none;
     padding: 0 0.5rem;
 }
 
-
+/*Header*/
+.header{
+    padding: 1rem;
+}
 
 
 /*Footer*/
