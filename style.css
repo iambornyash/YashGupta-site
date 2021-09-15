@@ -17,5 +17,6 @@ body{
 }
 
 .socialmedia{
-    text-align: center;
+    list-style: none;
+    text-align: right;
 }
