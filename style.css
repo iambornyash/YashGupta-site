@@ -35,6 +35,10 @@ text-decoration: none;
     padding: 1rem;
 }
 
+.header .image{
+    max-width: 350px;
+}
+
 
 /*Footer*/
 .socialist{
