@@ -23,10 +23,11 @@
 
 .nodecoration{
 text-decoration: none;
+color: white
 
 }
 .navigation .list .listinline{
-    color: white;
+    ;
     display: inline;
     padding: 0 0.5rem;
 }
