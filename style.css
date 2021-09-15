@@ -15,8 +15,9 @@ body{
 .navigation{
     background-color: var(--primary-color); 
     color: rgba(255, 255, 255, 0.589);
-    padding: 0.3rem;
-    border-bottom-left-radius: 1rem;
+        padding-left: 1rem
+        padding-right: 1rem;
+
 }
 .navigation .myname{
  font-weight: bold;
@@ -38,19 +39,6 @@ color: white
     display: inline;
     padding: 0 0.5rem;
 }
-
-
-.navigation container .container-fluid {
-    padding-left: 1rem;
-    padding-right: 1rem;
-}
-
-
-
-
-
-
-
 
 /*Header*/
 .header{
