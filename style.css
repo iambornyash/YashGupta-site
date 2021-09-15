@@ -10,6 +10,11 @@
     color: white;
     padding: 1rem;
 }
+.navigation .myname{
+ font-weight: bold;
+ font-size: 2rem;
+
+}
 
 .navigation .list{
     text-align: right;
