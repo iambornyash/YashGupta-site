@@ -11,12 +11,12 @@
     padding: 1rem;
 }
 
-.list{
+.navigation .list{
     text-align: right;
     list-style: none;
     
 }
-.list .listinline{
+.navigation .list .listinline{
     
     display: inline;
     padding: 0 0.5rem;
