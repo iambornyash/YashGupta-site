@@ -16,4 +16,6 @@ body{
 .socialmedia{
     list-style: none;
     text-align: center;
+    display: inline;
 }
+
