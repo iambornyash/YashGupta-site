@@ -20,10 +20,11 @@ text-decoration: none;
 
 }
 .navigation .list .listinline{
-    text-decoration: none;
     display: inline;
     padding: 0 0.5rem;
 }
+
+
 
 
 /*Footer*/
