@@ -7,7 +7,7 @@
 /*Navigation-Top*/
 .navigation{
     background-color: var(--primary-color); 
-    color: white;
+    color: rgba(255, 255, 255, 0.589);
     padding: 0.3rem;
     border-bottom-left-radius: 1rem;
 }
@@ -51,7 +51,7 @@ color: white
 }
 
 .header .headingg .span{
-    color: chocolate;
+    color:#7DD3FC;
 }
 
 /* Section */
@@ -60,7 +60,7 @@ color: white
  padding: 2rem;
 }
 .sectionbgcolor{
-background-color: #b8a7bd;
+background-color: #E0F2FE;
 
 }
 
