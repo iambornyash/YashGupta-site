@@ -13,7 +13,7 @@
 
 .navigation .list{
     text-align: right;
-    list-style: none;
+    text-decoration: none;
     
 }
 .navigation .list .listinline{
