@@ -15,9 +15,8 @@ body{
 .navigation{
     background-color: var(--primary-color); 
     color: rgba(255, 255, 255, 0.589);
-        padding-left: 1rem
-        padding-right: 1rem;
-
+    padding: 0.3rem;
+    border-bottom-left-radius: 1rem;
 }
 .navigation .myname{
  font-weight: bold;
