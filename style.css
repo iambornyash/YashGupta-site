@@ -41,11 +41,10 @@ text-decoration: none;
     margin: auto;
 }
 
-.header .heading{
- font-size: 6rem;
+.header .headingg{
+ color: blueviolet;
 
 }
-
 /*Footer*/
 .socialist{
     text-align: center;
