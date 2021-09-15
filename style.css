@@ -41,7 +41,10 @@ text-decoration: none;
     margin: auto;
 }
 
+.header .heading{
+ color: bisque;
 
+}
 /*Footer*/
 .socialist{
     text-align: center;
