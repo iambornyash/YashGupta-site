@@ -10,7 +10,7 @@
 }
 
 .list .listinline{
-    color: var(--primary-color);
+    background-color: var(--primary-color);
     display: inline;
     padding: 0 0.5rem;
 }
