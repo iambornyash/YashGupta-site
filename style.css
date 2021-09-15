@@ -42,9 +42,10 @@ text-decoration: none;
 }
 
 .header .heading{
- color: bisque;
+ font-size: 6rem;
 
 }
+
 /*Footer*/
 .socialist{
     text-align: center;
