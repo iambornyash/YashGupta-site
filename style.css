@@ -10,8 +10,10 @@
     
 }
 
-.list .listinline{
+.list{
     text-align: right;
+}
+.list .listinline{
     display: inline;
     padding: 0 0.5rem;
 }
