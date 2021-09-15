@@ -27,7 +27,7 @@ color: white
 
 }
 .navigation .list .listinline{
-    ;
+    
     display: inline;
     padding: 0 0.5rem;
 }
@@ -38,6 +38,7 @@ color: white
 }
 
 .header .image{
+    padding: 2rem;
     max-width: 600px;
     display: block;
     margin: auto;
