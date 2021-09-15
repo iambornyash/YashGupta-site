@@ -5,12 +5,13 @@
 
 
 .list{
+    background-color: var(--primary-color);
     list-style: none;
     text-align: right;
 }
 
 .list .listinline{
-    background-color: var(--primary-color);
+    
     display: inline;
     padding: 0 0.5rem;
 }
