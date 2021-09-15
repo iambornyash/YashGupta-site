@@ -11,12 +11,12 @@ body{
 }
 
 .list{
-    color: var([--primary-color]);
     list-style: none;
     text-align: right;
 }
 
 .list .listinline{
+    color: var([--primary-color]);
     display: inline;
     padding: 0 0.5rem;
 }
