@@ -21,5 +21,6 @@ body{
 .socialist .socialmedia{
     list-style: none;
     display: inline;
+    padding: 0 0.5rem;
 }
 
