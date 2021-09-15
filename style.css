@@ -33,12 +33,13 @@ text-decoration: none;
 /*Header*/
 .header{
     padding: 1rem;
+    margin: auto;
 }
 
 .header .image{
     max-width: 600px;
     display: block;
-    margin: auto;
+    
 }
 
 .header .headingg{
