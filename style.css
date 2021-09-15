@@ -9,6 +9,7 @@ body{
 
 .list .listinline{
     display: inline;
+    padding: 0 0.5rem;
 }
 
 
