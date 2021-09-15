@@ -68,12 +68,10 @@ background-color: #b8a7bd;
 
 /*Footer*/
 
-.socialhead{
+.social{
    text-align: center;
 }
-.socialist{
-    text-align: center;
-}
+
 
 .socialist .socialmedia{
     list-style: none;
