@@ -26,6 +26,7 @@ text-decoration: none;
 
 }
 .navigation .list .listinline{
+    color: white;
     display: inline;
     padding: 0 0.5rem;
 }
