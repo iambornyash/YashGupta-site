@@ -71,7 +71,7 @@ background-color: #b8a7bd;
 .footer{
   text-align: center;
   background-color: cornflowerblue;
-  padding: 0 1rem;
+  
 
 
 }
@@ -81,6 +81,7 @@ background-color: #b8a7bd;
 }
 .socialist{
     text-align: center;
+    padding: 0 1rem;
 }
 
 .socialist .socialmedia{
