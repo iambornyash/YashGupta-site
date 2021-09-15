@@ -1,10 +1,13 @@
-
+/*Root Elements*/
 :root{
 --primary-color: red;
 }
 
+
+/*Navigation-Top*/
 .navigation{
     background-color: var(--primary-color); 
+    colour: white;
 }
 
 .list{
@@ -17,7 +20,7 @@
 }
 
 
-
+/*Footer*/
 .socialist{
     text-align: center;
 }
