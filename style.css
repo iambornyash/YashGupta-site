@@ -1,6 +1,7 @@
 /*Root Elements*/
 :root{
 --primary-color: #E9D5FF;
+
 }
 
 
@@ -68,6 +69,8 @@ background-color: #E0F2FE;
     text-align: center;
     padding: 2rem;
 }
+
+/*links*/
 
 
 /*Footer*/
