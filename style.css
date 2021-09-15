@@ -51,7 +51,10 @@ text-decoration: none;
     color: chocolate;
 }
 
-
+/* Section */
+.section1 h3{
+ text-align: center;
+}
 
 
 /*Footer*/
