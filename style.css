@@ -68,16 +68,18 @@ background-color: #b8a7bd;
 
 /*Footer*/
 
-.social{
-   text-align: center;
+.footer{
+  text-align: center;
+  background-color: cornflowerblue;
+  padding: 0 1rem;
+
+
 }
-.socialist{
-    text-align: center;
-}
+
 
 .socialist .socialmedia{
     list-style: none;
     display: inline;
-    padding: 0 1rem;
+   
 }
 
