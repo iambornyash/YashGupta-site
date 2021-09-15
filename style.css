@@ -4,13 +4,10 @@
 }
 
 
-.navigation{
-    background-color: var(--primary-color);
-    
-}
 
 .list{
     text-align: right;
+    background-color: var(--primary-color);
 }
 .list .listinline{
     display: inline;
