@@ -9,7 +9,7 @@
     background-color: var(--primary-color); 
     color: white;
     padding: 0.3rem;
-    border-bottom-left-radius: 1rem;
+    
 }
 .navigation .myname{
  font-weight: bold;
@@ -40,7 +40,7 @@ color: white
 .header .image{
     padding: 2rem;
     max-width: 600px;
-    
+    display: block;
     margin: auto;
 }
 
