@@ -84,6 +84,13 @@ background-color: #E0F2FE;
 
 /*links*/
 
+.project{
+  padding: 0.5rem 1rem;
+text-decoration: none;
+background-color: blueviolet;
+border-radius: 0.5;
+}
+
 
 /*Footer*/
 
