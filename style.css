@@ -4,7 +4,7 @@
 body{
     font-family: 'Balsamiq Sans', cursive;
     margin: 0px;
-    var(--primary-color);
+    
 }
 /*Root Elements*/
 :root{
@@ -96,6 +96,7 @@ border-radius: 0.5rem;
 }
 
 .blog{
+    border: 1px solid var(--primary);
     border-radius: 0.5rem;
     text-decoration: none;
     color: white;
