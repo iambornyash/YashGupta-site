@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap');
 
 /* body font */
 body{
@@ -70,7 +69,6 @@ color: white
 
 /* Section */
 .section1 {
- font-family: 'Abril Fatface', cursive;   
  text-align: center;
  padding: 2rem;
 }
