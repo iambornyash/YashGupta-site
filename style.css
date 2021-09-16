@@ -26,8 +26,8 @@ body{
 }
 .navigation .myname{
     font-size: 0.8rem;
- font-weight: bold;
- 
+    font-weight: bold;
+    color: white;
 }
 
 .navigation .list{
