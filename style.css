@@ -11,9 +11,9 @@ body{
 
 }
 
-.container-fluid {
-    padding-left: 10rem;
-    padding-right: 1rem;
+.navigation .container-fluid {
+    padding-left: 3rem;
+    padding-right: 2rem;
 }
 
 
