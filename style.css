@@ -98,6 +98,7 @@ border-radius: 0.5rem;
 /*Footer*/
 
 .footer{
+  color: white;  
   text-align: center;
   background-color: var(--primary-color); 
   border-top-right-radius: 1rem;
