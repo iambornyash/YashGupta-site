@@ -65,6 +65,7 @@ color: white
 
 .header .headingg .span{
     color:var(--primary-color); 
+    text-align: center;
 }
 
 /* Section */
