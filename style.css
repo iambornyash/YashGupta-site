@@ -100,11 +100,6 @@ background-color: var(--primary-color);
 border-radius: 0.5rem;
 }
 
-.social .socialmedia .socialist .nodecorationsocial{
-text-decoration: none;
-}
-
-
 
 
 .blog{
@@ -146,7 +141,3 @@ text-decoration: none;
     padding: 0 1.7rem;
 }
 
-.container-fluid .social .socialmedia .socialist .nodecorationsocial{
-    text-decoration: none;
-    color: white;
-    }
