@@ -49,6 +49,7 @@ color: white
 /*Header*/
 .header{
     padding: 1rem;
+    text-align: center;
 }
 
 .header .image{
