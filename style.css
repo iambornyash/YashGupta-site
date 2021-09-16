@@ -58,13 +58,13 @@ color: white
 }
 
 .header .headingg{
- color: #6D28D9;
+ color: var(--primary-color); 
  text-align: center;
 
 }
 
 .header .headingg .span{
-    color:#6D28D9;
+    color:var(--primary-color); 
 }
 
 /* Section */
@@ -73,7 +73,7 @@ color: white
  padding: 2rem;
 }
 .sectionbgcolor{
-background-color: #E0F2FE;
+background-color: #DDD6FE;
 
 }
 
@@ -89,7 +89,7 @@ background-color: #E0F2FE;
   padding: 0.5rem 1rem;
 text-decoration: none;
 color: white;
-background-color: #6D28D9;
+background-color: var(--primary-color); 
 border-radius: 0.5rem;
 }
 
@@ -98,7 +98,7 @@ border-radius: 0.5rem;
 
 .footer{
   text-align: center;
-  background-color: #C4B5FD;
+  background-color: var(--primary-color); 
   border-top-right-radius: 1rem;
   padding: 3.3rem 0rem;
   
