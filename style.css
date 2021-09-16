@@ -64,8 +64,8 @@ color: white
 }
 
 .header .headingg .span{
-    color:var(--primary-color); 
-    text-align: right;
+    color: yellow; 
+    text-align: center;
 }
 
 /* Section */
