@@ -117,8 +117,8 @@ border-radius: 0.5rem;
 }
 
 .socialist .socialmedia{
-    list-style: none;
+    text-decoration: none;
     display: inline;
-    padding: 0 1.3rem;
+    padding: 0 1.7rem;
 }
 
