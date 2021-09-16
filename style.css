@@ -100,6 +100,13 @@ background-color: var(--primary-color);
 border-radius: 0.5rem;
 }
 
+.social .socialmedia .socialist .nodecorationsocial{
+text-decoration: none;
+}
+
+
+
+
 .blog{
     text-align: right;
     border: 1px solid var(--primary-color);
