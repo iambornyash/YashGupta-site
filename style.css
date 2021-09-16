@@ -10,6 +10,14 @@ body{
 
 }
 
+.container-fluid {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+
+
+
 
 /*Navigation-Top*/
 .navigation{
