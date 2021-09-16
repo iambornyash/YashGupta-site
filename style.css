@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cookie&display=swap');
+
 
 /* body font */
 body{
@@ -85,7 +86,7 @@ background-color: #DDD6FE;
 }
 .section2  .section2sub{
     font-size: 1.1rem;
-    font-family: 'Lobster', cursive;
+    font-family: 'Cookie', cursive;
 }
 
 /*links*/
