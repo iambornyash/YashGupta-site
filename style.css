@@ -7,7 +7,7 @@ body{
 }
 /*Root Elements*/
 :root{
---primary-color: #E9D5FF;
+--primary-color: #6D28D9;
 
 }
 
@@ -58,13 +58,13 @@ color: white
 }
 
 .header .headingg{
- color: blueviolet;
+ color: #6D28D9;
  text-align: center;
 
 }
 
 .header .headingg .span{
-    color:#7DD3FC;
+    color:#6D28D9;
 }
 
 /* Section */
@@ -84,12 +84,12 @@ background-color: #E0F2FE;
 
 /*links*/
 
-.section2 .project{
+.project{
     text-align: right;
   padding: 0.5rem 1rem;
 text-decoration: none;
 color: white;
-background-color: blueviolet;
+background-color: #6D28D9;
 border-radius: 0.5rem;
 }
 
@@ -98,7 +98,7 @@ border-radius: 0.5rem;
 
 .footer{
   text-align: center;
-  background-color: hsl(219, 75%, 70%);
+  background-color: #C4B5FD;
   border-top-right-radius: 1rem;
   padding: 3.3rem 0rem;
   
