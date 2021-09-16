@@ -79,9 +79,11 @@ background-color: #DDD6FE;
 }
 
 .section2{
-
     text-align: center;
     padding: 2rem;
+}
+.section2  .section2sub{
+    font-family: 'Lobster', cursive;
 }
 
 /*links*/
