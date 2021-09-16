@@ -3,6 +3,7 @@
 /* body font */
 body{
     font-family: 'Balsamiq Sans', cursive;
+    margin: 0px;
 }
 /*Root Elements*/
 :root{
