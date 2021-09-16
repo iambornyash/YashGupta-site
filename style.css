@@ -97,7 +97,7 @@ border-radius: 0.5rem;
 
 .blog{
     text-align: right;
-    border: 1px solid violet;
+    border: 1px solid var(--primary-color);
     border-radius: 0.5rem ;
     text-decoration: none;
     color: white;
