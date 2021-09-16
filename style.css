@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap')
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
 
 /* body font */
 body{
@@ -28,6 +29,7 @@ body{
     border-bottom-left-radius: 2rem;
 }
 .navigation .myname{
+    font-family: 'Gochi Hand', cursive;
     font-size: 0.8rem;
     font-weight: bold;
     color: white;
