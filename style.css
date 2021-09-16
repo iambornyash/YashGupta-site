@@ -11,6 +11,11 @@ body{
 
 }
 
+.container-fluid {
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
 
 /*Navigation-Top*/
 .navigation{
