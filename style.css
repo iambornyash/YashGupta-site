@@ -58,14 +58,14 @@ color: white
 }
 
 .header .headingg{
- color: var #ebedf0; 
+ color: #ebedf0; 
  text-align: center;
 
 }
 
 .header .headingg .span{
     color:var(--primary-color); 
-    text-align: center;
+    text-align: right;
 }
 
 /* Section */
