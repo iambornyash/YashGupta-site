@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Balsamiq+Sans:ital@1&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Gloria+Hallelujah&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap')
 
 /* body font */
 body{
@@ -78,6 +79,7 @@ background-color: #DDD6FE;
 }
 
 .section2{
+    font-family: 'Lobster', cursive;
     text-align: center;
     padding: 2rem;
 }
