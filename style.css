@@ -21,6 +21,8 @@ body{
 }
 .navigation .myname{
  font-weight: bold;
+ font-size: 1rem;
+
 }
 
 .navigation .list{
@@ -35,7 +37,7 @@ color: white
 .navigation .list .listinline{
     
     display: inline;
-    padding: 0 0.5rem;
+    padding: 0 0.8rem;
 }
 
 /*Header*/
